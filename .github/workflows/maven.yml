@@ -1,4 +1,4 @@
-name: Deploy Java Application
+name: Welcome to my new Deploy Java Application
 
 on:
   push:
